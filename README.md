@@ -1,7 +1,7 @@
 # point-cloud-registration-review
 Literature review of point cloud registration methods (For geomatics seminar at ETH Zurich)
 
-![alt text](gif/reg_demo.gif)
+![alt text](gif/reg_demo_1.gif)
 
 ## [Presentation Slides](https://github.com/YuePanEdward/point-cloud-registration-review/blob/master/point-cloud-registration-review-geomatics-seminar-yue-pan-ethz.pdf)
 
