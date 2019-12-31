@@ -9,3 +9,5 @@ Literature review of point cloud registration methods (For geomatics seminar at 
 [Awesome point cloud analysis by Yongcheng Liu](https://github.com/YuePanEdward/awesome-point-cloud-analysis)
 
 [Point set registration materials by Gang Wang](https://github.com/gwang-cv/Point-Set-Matching-Registration-Material)
+
+[A summary of point cloud registration project at ETH PRS](https://prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)
