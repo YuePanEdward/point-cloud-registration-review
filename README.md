@@ -5,7 +5,7 @@ Literature review of point cloud registration methods (For geomatics seminar at 
 
 ## [Presentation Slides](https://github.com/YuePanEdward/point-cloud-registration-review/blob/master/point-cloud-registration-review-geomatics-seminar-yue-pan-ethz.pdf)
 
-## [Report](https://github.com/YuePanEdward/point-cloud-registration-review/blob/master/Target_less_registration_review_Yue_Pan_GS-arxiv.pdf)
+## [Report](https://arxiv.org/abs/1912.12756)
 
 ## Other links
 [Awesome point cloud analysis by Yongcheng Liu](https://github.com/YuePanEdward/awesome-point-cloud-analysis)
